@@ -1,0 +1,2 @@
+rootProject.name='Flipkartrecvw'
+include ':app'
